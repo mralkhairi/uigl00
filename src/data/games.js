@@ -17,32 +17,6 @@ export const games = [
     accentIcon: "controller",
   },
   {
-    slug: "efootball",
-    name: "eFootball",
-    shortName: "EF",
-    tagline: "1v1 Showdown",
-    description:
-      "Adu taktik dan skill individu di lapangan digital. Format 1v1 head-to-head.",
-    format: "1v1",
-    slots: 64,
-    prizePool: "Rp 1.000.000",
-    registerDeadline: "2026-09-18T23:59:00",
-    accentIcon: "ball",
-  },
-  {
-    slug: "pubg-mobile",
-    name: "PUBG Mobile",
-    shortName: "PM",
-    tagline: "Battleground",
-    description:
-      "Siapa yang malam ini mau makan ayam!",
-    format: "Squad — 4 Match Point System",
-    slots: 64,
-    prizePool: "Rp 2.000.000",
-    registerDeadline: "2026-09-22T23:59:00",
-    accentIcon: "shield",
-  },
-  {
     slug: "valorant",
     name: "Valorant",
     shortName: "VL",

@@ -80,16 +80,6 @@ export default function Footer() {
                 </Link>
               </li>
 
-              <li>
-                <Link
-                  to="/register"
-                  className="group flex items-center gap-2 transition-colors duration-200 hover:text-gold-300"
-                >
-                  <span className="h-px w-0 bg-gold-300 transition-all duration-200 group-hover:w-4" />
-                  Register
-                </Link>
-              </li>
-
             </ul>
 
           </div>
@@ -99,10 +89,6 @@ export default function Footer() {
               NAVIGATION 2
               ===================================================== */}
           <div>
-
-            <h3 className="mb-5 font-body text-sm font-bold uppercase tracking-[0.15em] text-gold-300">
-              Sponsored by
-            </h3>
 
             <ul className="space-y-4 font-body text-sm text-white/60">
 

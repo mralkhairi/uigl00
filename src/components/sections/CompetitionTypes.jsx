@@ -28,7 +28,7 @@ export default function CompetitionTypes() {
       </div>
 
       {/* Games */}
-      <div className="grid grid-cols-2 gap-px overflow-hidden border border-gold-300/20 bg-gold-300/20 md:grid-cols-4">
+      <div className="grid grid-cols-2 gap-px overflow-hidden border border-gold-300/20 bg-gold-300/20 md:grid-cols-2">
         {games.map((game, index) => {
           const Icon = iconMap[game.accentIcon];
 
