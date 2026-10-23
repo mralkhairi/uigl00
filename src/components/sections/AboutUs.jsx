@@ -53,9 +53,6 @@ export default function AboutUs() {
            
 
             <div className="relative z-10">
-              <p className="mb-4 text-[10px] font-bold uppercase tracking-[0.35em] text-gold-300/70">
-                Tentang Kami
-              </p>
 
               <h2 className="heading-hero max-w-xs text-4xl leading-[0.95] text-gold-300 md:text-6xl">
                 ABOUT
